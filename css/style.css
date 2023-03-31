@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+body{
+    background: url(/images/github-background-img.jpg) center fixed ,no-repeat;
+    background-size: cover;
+}

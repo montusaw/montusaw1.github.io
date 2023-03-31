@@ -3,6 +3,8 @@
     padding: 0px;
     text-decoration: none;
 }
+
+/* <!-- -------header-part-start ------- --> */
 .main-header{
     width: 100%;
     height: 800px;
@@ -38,9 +40,12 @@
 }
 .form-head{
     width: 100%;
-    height: 60px;
+    height: 55px;
     border-radius: 5px 5px 0px 0px;
     background-color: #174566;
+    color: #fff;
+    text-align: center;
+    padding-top: 15px;
 }
 .lable-part{
     width: 300px;
@@ -83,6 +88,10 @@
     border: none;   
 }
 
+/* <!-- -------header-part-end ------- --> */
+
+/* <!-- Why take this test-start- --> */
+
 .main-test-part{
     width: 100%;
     /* height: 950px; */
@@ -118,6 +127,7 @@
     background-color: #fff;
     margin: 12px;
     margin-top: 50px;
+    border-bottom: 5px solid #01bf7f ;
     
 }
 
@@ -183,8 +193,8 @@
 .card-content4 ul{
     padding:30px;
 }
-
-
+/* <!-- Why take this test-end- --> */
+/* <!-- Law-prep-part-start ---- --> */
 .color-part2{
     width: 90%;
     height: 70px;
@@ -381,6 +391,7 @@
     font-size: 15px;
     padding-top: 15px;
 }
+/* <!-- Law-prep-part-end ---- --> */
 td{
     border-bottom: 1px solid gray;
 }
@@ -558,6 +569,7 @@ td{
     margin-bottom: 30px;
 }
 
+/* <!-- -------footer-section-start ----- --> */
 .footer-section{
     width: 100%;
     height: 460px;
@@ -606,3 +618,4 @@ td{
 .footer-end a{
     color: #fff;
 }
+/* <!-- -------footer-section-end ----- --> */
